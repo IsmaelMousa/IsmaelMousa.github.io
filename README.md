@@ -1,3 +1,5 @@
+##   
+
 <div align="center">
 
 <a href="mailto:ismaelramzimousa@gmail.com" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" alt="ismaelramzimousa@gmail.com" title="Email" height="35"></a>
@@ -57,7 +59,7 @@ believe in leveraging collective expertise to tackle complex challenges and driv
     - Organized and managed student affairs during various visits and worship trips.
     - Ensured the smooth running of activities and provided guidance and support to the group.
 
-  
+
 - Fitness and Bodybuilding Coach | Titan Gym, Nablus (Jun 2019 - Dec 2020)
     - Worked as a coach for a year and a half at the age of 17, gaining knowledge in sports and health sciences.
     - Engaged with clients from diverse communities, providing personal coaching and achieving impressive results for
