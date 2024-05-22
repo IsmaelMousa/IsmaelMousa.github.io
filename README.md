@@ -8,7 +8,6 @@ fields, especially in Natural Language Processing (NLP), Computer Vision, and Ro
 
 ### Contact
 
-- **Phone:** +972597836941
 - **Email:** [ismaelramzimousa@gmail.com](mailto:ismaelramzimousa@gmail.com)
 - **LinkedIn:** [linkedin.com/in/IsmaelMousa](https://www.linkedin.com/in/IsmaelMousa)
 - **Github:** [github.com/IsmaelMousa](https://github.com/IsmaelMousa)
