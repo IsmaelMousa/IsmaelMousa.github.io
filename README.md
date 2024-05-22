@@ -1,4 +1,4 @@
-# Ismael Mousa - Machine Learning Engineer
+# Machine Learning Engineer
 
 ## About Me
 
@@ -6,13 +6,7 @@ Hello! I'm Ismael Mousa, an ambitious individual driven by a relentless pursuit 
 of Artificial Intelligence (AI), Machine Learning, and Deep Learning. My passion lies in the convergence of these
 fields, especially in Natural Language Processing (NLP), Computer Vision, and Robotics Science.
 
-### Educational Background
-
-My academic journey began at an industrial secondary school, where I specialized in electricity and graduated with
-honors, securing the top position in my specialty. This early exposure ignited my passion for technology and AI,
-motivating me to pursue further studies in Computer Science with a focus on AI at An-Najah National University.
-
-### Reach me
+### Contact
 
 - **Phone:** +972597836941
 - **Email:** [ismaelramzimousa@gmail.com](mailto:ismaelramzimousa@gmail.com)
@@ -20,6 +14,12 @@ motivating me to pursue further studies in Computer Science with a focus on AI a
 - **Github:** [github.com/IsmaelMousa](https://github.com/IsmaelMousa)
 - **Hugging Face:** [huggingface.co/IsmaelMousa](https://huggingface.co/IsmaelMousa)
 - **Kaggle:** [kaggle.com/ismaeldwikat](https://www.kaggle.com/ismaeldwikat)
+
+### Educational Background
+
+My academic journey began at an industrial secondary school, where I specialized in electricity and graduated with
+honors, securing the top position in my specialty. This early exposure ignited my passion for technology and AI,
+motivating me to pursue further studies in Computer Science with a focus on AI at An-Najah National University.
 
 ### Professional Pursuits
 
