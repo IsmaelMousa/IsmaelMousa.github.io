@@ -1,4 +1,4 @@
-##   
+
 
 <div align="center">
 
@@ -66,9 +66,7 @@ believe in leveraging collective expertise to tackle complex challenges and driv
       many clients in a relatively short period.
 
 
-- Volunteer Electric
-  Fixer | [Nablus Industrial High School](https://ween.ps/schools/nabls/nabls-althanwyt-alsnaeyt-nabls), Nablus (Jul
-  2019 - Aug 2021)
+- Volunteer Electric Fixer | [Nablus Industrial High School](https://ween.ps/schools/nabls/nabls-althanwyt-alsnaeyt-nabls), Nablus (Jul 2019 - Aug 2021)
     - Volunteered in electrical repair and maintenance at my secondary school.
     - Collaborated with four other students to repair faults and improve electrical services during our education
       period.
