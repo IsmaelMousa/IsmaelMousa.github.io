@@ -39,7 +39,7 @@ believe in leveraging collective expertise to tackle complex challenges and driv
 ## Education
 
 - B.S., Computer Science | An-Najah National University (Sep 2021 - Present)
-- Industrial High School Diploma, Electricity | [Your High School Name] (Specify the dates here)
+- Industrial High School Diploma, Electricity | Nablus Industrial High School (Sep 2020 - Aug 2021)
 
 ## Skills
 
