@@ -1,0 +1,29 @@
+title: Ismael Mousa's Portfolio
+description: Deep Learning and NLP
+url: "https://IsmaelMousa.github.io"
+baseurl: "/me"
+
+author:
+  name: Ismael Mousa
+  email: ismaelramzimousa@gmail.com
+  avatar: "./assets/img/profile.jpg"
+
+social:
+  linkedin: IsmaelMousa
+  github: IsmaelMousa
+  huggingface: IsmaelMousa
+  kaggle: ismaeldwikat
+
+markdown: kramdown
+highlighter: rouge
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+permalink: /:year/:month/:day/:title/
+
+paginate: 5
+paginate_path: "/page:num/"
+
+timezone: Asia/Hebron
