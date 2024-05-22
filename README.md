@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <a href="mailto:ismaelramzimousa@gmail.com" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" alt="ismaelramzimousa@gmail.com" title="Email" height="35"></a>
@@ -9,6 +7,10 @@
 <a href="https://www.postgresql.org" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="kaggle.com/ismaeldwikat" title="Kaggle" height="35"></a>
 
 </div>
+
+<hr>
+
+<br/>
 
 ## Who Am I?
 
