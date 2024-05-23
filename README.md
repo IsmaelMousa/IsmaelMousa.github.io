@@ -15,43 +15,42 @@
 ## Who Am I?
 
 I'm Ismael Mousa, an ambitious individual from Nablus/Palestine, driven by a relentless pursuit of knowledge,
-particularly in the realms of **Artificial Intelligence (AI)**, **Machine Learning**, and **Deep Learning**. Born on
+particularly in the realms of Artificial Intelligence (AI), Machine Learning, and Deep Learning. Born on
 July 19, 2003,
-my passion lies in the convergence of these fields, especially in **Natural Language Processing (NLP)**, **Computer
-Vision**,
-and **Robotics Science**.
+my passion lies in the convergence of these fields, especially in Natural Language Processing (NLP), Computer
+Vision,
+and Robotics Science.
 
 ### Educational Background
 
-My academic journey began at an industrial secondary school, where I specialized in **Electricity** and graduated with
-honors, securing the top position in my specialty. This early exposure ignited my passion for technology and **AI**,
-motivating me to pursue further studies in Computer Science with a focus on **AI**
+My academic journey began at an industrial secondary school, where I specialized in Electricity and graduated with
+honors, securing the top position in my specialty. This early exposure ignited my passion for technology and AI,
+motivating me to pursue further studies in Computer Science with a focus on AI
 at [An-Najah National University](https://www.najah.edu/en/#).
 
 ### Professional Pursuits
 
-As a **self-learner**, I actively seek out opportunities to expand my expertise and engage in projects that drive
+As a self-learner, I actively seek out opportunities to expand my expertise and engage in projects that drive
 innovation
-in **AI** and related domains. I am deeply committed to staying updated with the latest advancements and methodologies
+in AI and related domains. I am deeply committed to staying updated with the latest advancements and methodologies
 in
 the field.
 
 ### Interests and Hobbies
 
-Beyond my professional endeavors, I have a keen interest in **sports**, **movies**, and exploring foreign languages.
-**Italian** 🇮🇹, in
+Beyond my professional endeavors, I have a keen interest in sports, movies, and exploring foreign languages.
+Italian 🇮🇹, in
 particular, holds a special place in my heart as I enjoy delving into its culture and linguistic nuances.
 
 ### Collaboration and Teamwork
 
-I thrive in collaborative environments where I can contribute my skills and learn from others. Embracing **teamwork**, I
+I thrive in collaborative environments where I can contribute my skills and learn from others. Embracing teamwork, I
 believe in leveraging collective expertise to tackle complex challenges and drive meaningful outcomes.
 
 ## Education
 
 - B.S., Computer Science | [An-Najah National University](https://www.najah.edu/en/#) (Sep 2021 - Present)
-- Industrial High School Diploma,
-  Electricity | [Nablus Industrial High School](https://ween.ps/schools/nabls/nabls-althanwyt-alsnaeyt-nabls) (Sep
+- Industrial High School Diploma, Electricity | [Nablus Industrial High School](https://ween.ps/schools/nabls/nabls-althanwyt-alsnaeyt-nabls) (Sep
   2020 - Aug 2021)
 
 ## Experience
