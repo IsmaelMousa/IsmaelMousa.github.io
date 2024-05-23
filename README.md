@@ -23,7 +23,7 @@ and Robotics Science.
 
 ### Educational Background
 
-My academic journey began at an industrial secondary school, where I specialized in Electricity and graduated with
+My academic journey began at an industrial high school, where I specialized in Electricity and graduated with
 honors, securing the top position in my specialty. This early exposure ignited my passion for technology and AI,
 motivating me to pursue further studies in Computer Science with a focus on AI
 at [An-Najah National University](https://www.najah.edu/en/#).
@@ -50,8 +50,7 @@ believe in leveraging collective expertise to tackle complex challenges and driv
 ## Education
 
 - B.S., Computer Science | [An-Najah National University](https://www.najah.edu/en/#) (Sep 2021 - Present)
-- Industrial High School Diploma, Electricity | [Nablus Industrial High School](https://ween.ps/schools/nabls/nabls-althanwyt-alsnaeyt-nabls) (Sep
-  2020 - Aug 2021)
+- Industrial High School, Electricity | [Nablus Industrial H.S](https://ween.ps/schools/nabls/nabls-althanwyt-alsnaeyt-nabls) (Sep 2020 - Aug 2021)
 
 ## Experience
 
@@ -68,7 +67,7 @@ believe in leveraging collective expertise to tackle complex challenges and driv
 
 
 - Volunteer Electric Fixer | [Nablus Industrial High School](https://ween.ps/schools/nabls/nabls-althanwyt-alsnaeyt-nabls), Nablus (Jul 2019 - Aug 2021)
-    - Volunteered in electrical repair and maintenance at my secondary school.
+    - Volunteered in electrical repair and maintenance at my high school.
     - Collaborated with four other students to repair faults and improve electrical services during our education
       period.
     - Earned a volunteer scholarship opportunity abroad, which was unfortunately canceled due to unforeseen
