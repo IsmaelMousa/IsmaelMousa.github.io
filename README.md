@@ -89,11 +89,11 @@ Beyond my continuous learning journey, I have a keen interest in sports, movies,
 
 ### WDFAP (May 2024 - Present)
 
-- **Description**: A Python tool that enables you to **fetch**, **clean**, **prepare**, **label**, and **upload**
+- **Description**: A Python tool that enables you to fetch, clean, prepare, label, and upload
   articles
   from web sources in
   various
-  formats such as `csv`, `json`, `xlsx`, and `parquet`. It provides you with a versatile way to access, analyze, and
+  formats such as CSV, JSON, Excel, and Parquet. It provides you with a versatile way to access, analyze, and
   manage
   diverse sets of data.
 
@@ -106,26 +106,32 @@ For More Information [Click here](https://github.com/IsmaelMousa/WDFAP)
 
 ### Bert Finetuned Emotion (April 2024 - May 2024)
 
-- **Description**: A fine-tuned version of the **BERT** model for text classification, specifically trained for emotion
-  classification tasks. It utilizes the **BERT** architecture, a powerful pre-trained language representation model
-  developed by **Google**, and fine-tunes it on the `dair-ai/emotion` dataset. The model aims to predict the emotion
+- **Description**: A fine-tuned version of the BERT model for text classification, specifically trained for emotion
+  classification tasks. It utilizes the BERT architecture, a powerful pre-trained language representation model
+  developed by Google, and fine-tunes it on the dair-ai/emotion dataset. The model aims to predict the emotion
   associated with a given text input.
 
 
 - **Technologies Used**:
 
-  Python - HuggingFace - Transformers - Tokenizers - Datasets - Evaluate
+  Python - HuggingFace - Transformers
+
+
+  Tokenizers - Datasets - Evaluate
 
 For More Information [Click here](https://huggingface.co/IsmaelMousa/bert-finetuned-emotion)
 
 ### TTL (Dec 2023 - Mar 2024)
 
-- **Description**: A full-stack simulator for a **todo task list** manager, combined with an **AI Assistant**.
+- **Description**: A full-stack simulator for a todo task list manager, combined with a simple AI chat assistant.
 
 
 - **Technologies Used**:
   
-  Python - FastAPI - PostgreSQL - SQLAlchemy - Poetry - Pytest - Pylint - Bootstrap-5 - HTML - JavaScript - CSS
+  Python - FastAPI - PostgreSQL - SQLAlchemy - Poetry
+
+
+  Pytest - Pylint - Bootstrap-5 - HTML - JavaScript - CSS
 
 For More Information [Click here](https://github.com/IsmaelMousa/TTL)
 
