@@ -31,8 +31,9 @@ in the field.
 
 ### Interests and Hobbies
 
-Beyond my continuous learning journey, I have a keen interest in sports, movies, and exploring foreign languages. Italian 🇮🇹, in particular, holds a special place in my heart as I enjoy delving into its culture and linguistic nuances.
+Passionate about sports science and its impact on mental health and life decisions. I enjoy delving into foreign cultures and linguistic nuances, with a particular fondness for Italian 🇮🇹.
 
+I love movies.
 
 <hr>
 
@@ -189,7 +190,7 @@ FastAPI - Docker - PostgreSQL - MongoDB - SQLAlchemy - Poetry
 Linux - Git - GitHup Actions - Pytest - Pylint - Flake8 - Nose2 
 
 
-Postman - PgAdmin4 - Jira - Codecov - Jupyter - Codecov
+Postman - PgAdmin4 - Jira - Codecov - Jupyter
 
 
 Node.js - React.js - Bootstrap-5 - Tailwind
