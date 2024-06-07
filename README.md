@@ -33,18 +33,19 @@ in the field.
 
 Beyond my continuous learning journey, I have a keen interest in sports, movies, and exploring foreign languages. Italian 🇮🇹, in particular, holds a special place in my heart as I enjoy delving into its culture and linguistic nuances.
 
-<br/>
 
 <hr>
+
+<br/>
 
 ## Education
 
 - B.S., Computer Science | [An-Najah National University](https://www.najah.edu/en/#) (Sep 2021 - Present)
 - Industrial High School, Electricity | [Nablus Industrial H.S](https://ween.ps/schools/nabls/nabls-althanwyt-alsnaeyt-nabls) (Sep 2020 - Aug 2021)
 
-<br/>
-
 <hr>
+
+<br/>
 
 ## Involvement
 
@@ -67,9 +68,9 @@ Beyond my continuous learning journey, I have a keen interest in sports, movies,
     - Earned a volunteer scholarship opportunity abroad, which was unfortunately canceled due to unforeseen
       circumstances.
 
-<br/>
-
 <hr>
+
+<br/>
 
 ## Leadership
 
@@ -97,9 +98,9 @@ Beyond my continuous learning journey, I have a keen interest in sports, movies,
 - Recommended by the instructor to lead the team.
 - Delivered an engaging project presentation that earned additional grades from the professor.
 
-<br/>
-
 <hr>
+
+<br/>
 
 ## Projects
 
@@ -163,9 +164,9 @@ For More Information [Click here](https://github.com/IsmaelMousa/TTL)
 
 For More Information [Click here](https://github.com/IsmaelMousa/pos-sales-stock)
 
-<br/>
-
 <hr>
+
+<br/>
 
 ## Skills
 
@@ -193,9 +194,9 @@ Postman - PgAdmin4 - Jira - Codecov - Jupyter - Codecov
 
 Node.js - React.js - Bootstrap-5 - Tailwind
 
-<br/>
-
 <hr>
+
+<br/>
 
 ## Additional Information
 
