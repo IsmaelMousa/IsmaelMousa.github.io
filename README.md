@@ -207,31 +207,6 @@ For More Information [Click here](https://github.com/IsmaelMousa/pos-sales-stock
 - Hugging Face
 - Kaggle
 
-### Technical Skills
-
-- API Development
-- Data Analysis
-- Time Series Analysis
-- Statistical Analysis
-- Optimization Algorithms
-- Data Visualization
-- Software Principles
-- Software Architecture
-- Software Documentation
-- Quality Assurance (QA)
-- Continuous Integration/Continuous Deployment (CI/CD)
-- Project Management
-
-### Soft Skills
-
-- Communication
-- Teamwork
-- Presentation
-- Problem Solving
-- Critical Thinking
-- Leadership
-- Attention to Details
-
 ## Additional Information
 
 ### Languages
