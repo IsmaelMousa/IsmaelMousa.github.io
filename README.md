@@ -99,11 +99,8 @@ Beyond my continuous learning journey, I have a keen interest in sports, movies,
 
 
 - **Technologies Used**:
-    - Python
-    - BeautifulSoup4
-    - Pandas
-    - Asyncio
-    - Aiohttp
+
+  Python - BeautifulSoup4 - Pandas - Asyncio - Aiohttp
 
 For More Information [Click here](https://github.com/IsmaelMousa/WDFAP)
 
@@ -116,11 +113,8 @@ For More Information [Click here](https://github.com/IsmaelMousa/WDFAP)
 
 
 - **Technologies Used**:
-    - Python
-    - Transformers
-    - Pytorch
-    - Datasets
-    - Trainer API
+
+  Python - HuggingFace - Transformers - Tokenizers - Datasets - Evaluate
 
 For More Information [Click here](https://huggingface.co/IsmaelMousa/bert-finetuned-emotion)
 
@@ -130,14 +124,8 @@ For More Information [Click here](https://huggingface.co/IsmaelMousa/bert-finetu
 
 
 - **Technologies Used**:
-    - Python
-    - FastAPI
-    - PostgreSQL
-    - Poetry
-    - Pytest, Pylint
-    - SQLAlchemy
-    - Bootstrap-5
-    - HTML, JavaScript, CSS
+  
+  Python - FastAPI - PostgreSQL - SQLAlchemy - Poetry - Pytest - Pylint - Bootstrap-5 - HTML - JavaScript - CSS
 
 For More Information [Click here](https://github.com/IsmaelMousa/TTL)
 
@@ -148,11 +136,8 @@ For More Information [Click here](https://github.com/IsmaelMousa/TTL)
 
 
 - **Technologies Used**:
-    - React.js
-    - Node.js
-    - Bootstrap-5
-    - HTML, JavaScript, CSS
-    - Figma
+  
+  React.js - Node.js - Bootstrap-5 - HTML - JavaScript - CSS - Figma
 
 For More Information [Click here](https://github.com/IsmaelMousa/pos-sales-stock)
 
