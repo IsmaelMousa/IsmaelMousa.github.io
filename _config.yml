@@ -1,6 +1,6 @@
 title: Ismael Mousa
 logo: /assets/img/me.png
-description: Deep Learning & NLP 🕊️
+description: Machine Learning 🕊️
 url: "https://IsmaelMousa.github.io"
 baseurl: ""
 
@@ -10,10 +10,8 @@ author:
   avatar: "./assets/img/profile.jpg"
 
 social:
-  linkedin: IsmaelMousa
-  github: IsmaelMousa
-  huggingface: IsmaelMousa
-  kaggle: ismaeldwikat
+  linkedin_username: IsmaelMousa
+  github_username: IsmaelMousa
 
 markdown: kramdown
 highlighter: rouge
