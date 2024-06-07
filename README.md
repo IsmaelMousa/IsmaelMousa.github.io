@@ -14,12 +14,7 @@
 
 ## Who Am I?
 
-I'm Ismael Mousa, an ambitious individual from Nablus/Palestine, driven by a relentless pursuit of knowledge,
-particularly in the realms of Artificial Intelligence (AI), Machine Learning, and Deep Learning. Born on
-July 19, 2003,
-my passion lies in the convergence of these fields, especially in Natural Language Processing (NLP), Computer
-Vision,
-and Robotics Science.
+My name is Ismael Ramzi Mousa, born on July 19, 2003, in Nablus/Palestine. I'm a student specializing in AI and Data Science, with nearly two years of software development experience. I'm a self-motivated learner with a keen eye for detail and enjoy working in team settings where I can both share my knowledge and learn from others. In my personal time, I focus on enhancing my Machine Learning skills.
 
 ### Educational Background
 
@@ -28,31 +23,22 @@ honors, securing the top position in my specialty. This early exposure ignited m
 motivating me to pursue further studies in Computer Science with a focus on AI
 at [An-Najah National University](https://www.najah.edu/en/#).
 
-### Professional Pursuits
+### Continuous Learning
 
-As a self-learner, I actively seek out opportunities to expand my expertise and engage in projects that drive
-innovation
-in AI and related domains. I am deeply committed to staying updated with the latest advancements and methodologies
-in
-the field.
+I actively seek out opportunities to expand my expertise and engage in projects that drive
+innovation in AI and related domains. I am deeply committed to staying updated with the latest advancements and methodologies
+in the field.
 
 ### Interests and Hobbies
 
-Beyond my professional endeavors, I have a keen interest in sports, movies, and exploring foreign languages.
-Italian 🇮🇹, in
-particular, holds a special place in my heart as I enjoy delving into its culture and linguistic nuances.
-
-### Collaboration and Teamwork
-
-I thrive in collaborative environments where I can contribute my skills and learn from others. Embracing teamwork, I
-believe in leveraging collective expertise to tackle complex challenges and drive meaningful outcomes.
+Beyond my continuous learning journey, I have a keen interest in sports, movies, and exploring foreign languages. Italian 🇮🇹, in particular, holds a special place in my heart as I enjoy delving into its culture and linguistic nuances.
 
 ## Education
 
 - B.S., Computer Science | [An-Najah National University](https://www.najah.edu/en/#) (Sep 2021 - Present)
 - Industrial High School, Electricity | [Nablus Industrial H.S](https://ween.ps/schools/nabls/nabls-althanwyt-alsnaeyt-nabls) (Sep 2020 - Aug 2021)
 
-## Experience
+## Involvement
 
 - Monitor and Mentor | Palestine & Saudi Arabia (Jan 2019)
     - Volunteered as a supervisor for a group of 10 students and colleagues during a 14-day program in Saudi Arabia.
@@ -174,43 +160,33 @@ For More Information [Click here](https://github.com/IsmaelMousa/pos-sales-stock
 
 ### Programming Languages
 
-- Python
-- C/C++
-- SQL
-- JavaScript
-- HTML
-- CSS
+Python - C/C++ - SQL - JavaScript - HTML - CSS
 
-### Frameworks/Libraries
+### Machine Learning
 
-- FastAPI, Node.js, SQLAlchemy, Pydantic, Poetry
-- Transformers, Datasets, Pytorch, Numpy, Scipy, Pandas, Polars
-- Matplotlib, BeautifulSoup4, Aiohttp, Asyncio
-- React.js, Bootstrap-5, Tailwind
-- Pytest, Pylint, Flake8, Nose2
+PyTorch - Numpy - Scipy - Pandas - Polars - HuggingFace - Transformers
 
-### Databases
 
-- PostgreSQL
-- MongoDB
+Tokenizers - Accelerate - Datasets - Matplotlib - BeautifulSoup4
 
-### Tools
+### Software Engineering
 
-- Linux, Git, Docker, Jupyter
-- Postman, PgAdmin4
-- PyCharm, VS Code
-- Jira, Trello, Notion
+FastAPI - Docker - PostgreSQL - MongoDB - SQLAlchemy - Poetry
 
-### Platforms
 
-- Github
-- Hugging Face
-- Kaggle
+Linux - Git - GitHup Actions - Pytest - Pylint - Flake8 - Nose2 
+
+
+Postman - PgAdmin4 - Jira - Codecov - Jupyter - Codecov
+
+
+Node.js - React.js - Bootstrap-5 - Tailwind
+
 
 ## Additional Information
 
 ### Languages
 
-- Arabic (Native)
-- English (Upper Intermediate)
-- Italian (Elementary)
+- **Arabic**: Native
+- **English**: Upper Intermediate
+- **Italian**: Elementary
