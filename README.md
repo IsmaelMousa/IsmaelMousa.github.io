@@ -14,195 +14,28 @@
 
 ## Who Am I?
 
-My name is Ismael Ramzi Mousa, born on July 19, 2003, in Nablus/Palestine. I'm a student specializing in AI and Data Science, with nearly two years of software development experience. I'm a self-motivated learner with a keen eye for detail and enjoy working in team settings where I can both share my knowledge and learn from others. In my personal time, I focus on enhancing my Machine Learning skills.
+I am Ismael R. Mousa, born under the vibrant skies of Palestine on July 19, 2003. A seeker of knowledge and a quiet admirer of the untold mysteries of technology, I have found my calling in the ever-evolving worlds of Artificial Intelligence and Data Science. Each project I take on is more than just work; it’s an exploration, a journey fueled by curiosity and a deep respect for the craft.
 
-### Educational Background
 
-My academic journey began at an industrial high school, where I specialized in Electricity and graduated with
-honors, securing the top position in my specialty. This early exposure ignited my passion for technology and AI,
-motivating me to pursue further studies in Computer Science with a focus on AI
-at [An-Najah National University](https://www.najah.edu/en/#).
+In the quiet hours of my day, I immerse myself in Machine Learning, each new concept is like unlocking a new door, revealing layers of complexity and wonder. My fascination is endless, and I remain ever open to learning, knowing the journey is far from over.
 
-### Continuous Learning
 
-I actively seek out opportunities to expand my expertise and engage in projects that drive
-innovation in AI and related domains. I am deeply committed to staying updated with the latest advancements and methodologies
-in the field.
+My academic story begins humbly at an industrial high school, where I specialized in Electricity. Graduating with honors was a moment of pride, but more than that, it was the spark that ignited a lifelong passion for innovation and discovery. That spark led me to further my studies in Computer Science, with a focus on AI, at [An-Najah National University](https://www.najah.edu/en/#), where I continue to delve deeper into the intricacies of this extraordinary field.
 
-### Interests and Hobbies
 
-Passionate about sports science and its impact on mental health and life decisions. I enjoy delving into foreign cultures and linguistic nuances, with a particular fondness for Italian 🇮🇹.
+I strive to stay on the cutting edge, always seeking new ways to contribute to the transformative world of AI. Yet, I approach each day with the quiet understanding that there is always more to learn, more to discover , a humble step in a vast, ever-changing landscape.
 
-I love movies.
+
+Beyond my work, I find solace in the harmony between body and mind. The study of sports science and its connection to mental well-being fascinates me, offering me a broader lens through which to understand life. I also have a deep affection for languages and cultures, especially the rich, melodic allure of Italian 🇮🇹, a language that speaks to the heart as much as the mind.
+
+
+I love movies, I hate eggplant.
 
 <hr>
 
 <br/>
 
-## Education
-
-- B.S., Computer Science | [An-Najah National University](https://www.najah.edu/en/#) (Sep 2021 - Present)
-- Industrial High School, Electricity | [Nablus Industrial H.S](https://ween.ps/schools/nabls/nabls-althanwyt-alsnaeyt-nabls) (Sep 2020 - Aug 2021)
-
-<hr>
-
-<br/>
-
-## Involvement
-
-- Monitor and Mentor | Palestine & Saudi Arabia (Jan 2019)
-    - Volunteered as a supervisor for a group of 10 students and colleagues during a 14-day program in Saudi Arabia.
-    - Organized and managed student affairs during various visits and worship trips.
-    - Ensured the smooth running of activities and provided guidance and support to the group.
-
-
-- Fitness and Bodybuilding Coach | Titan Gym, Nablus (Jun 2019 - Dec 2020)
-    - Worked as a coach for a year and a half at the age of 17, gaining knowledge in sports and health sciences.
-    - Engaged with clients from diverse communities, providing personal coaching and achieving impressive results for
-      many clients in a relatively short period.
-
-
-- Volunteer Electric Fixer | [Nablus Industrial High School](https://ween.ps/schools/nabls/nabls-althanwyt-alsnaeyt-nabls), Nablus (Jul 2019 - Aug 2021)
-    - Volunteered in electrical repair and maintenance at my high school.
-    - Collaborated with four other students to repair faults and improve electrical services during our education
-      period.
-    - Earned a volunteer scholarship opportunity abroad, which was unfortunately canceled due to unforeseen
-      circumstances.
-
-<hr>
-
-<br/>
-
-## Leadership
-
-### C++ Project Team Leader
-
-- Managed team tasks and distributed responsibilities according to members' strengths.
-- Successfully completed the project, earning a full grade.
-
-### Database Course Team Leader
-
-- Led planning and information gathering directly from the client.
-- Presented the final results to the course professor and the client.
-- Successfully met all project objectives.
-
-### Web Development I Team Leader
-
-- Managed team task distribution and information gathering.
-- Coordinated with a real company related to our project to gather relevant information.
-- Provided technical support and reviewed solutions before implementation.
-- Received recognition for exemplary leadership qualities.
-- Delivered an engaging project presentation that captured the professor’s attention, resulting in a successful outcome.
-
-### Web Development II Team Leader
-
-- Recommended by the instructor to lead the team.
-- Delivered an engaging project presentation that earned additional grades from the professor.
-
-<hr>
-
-<br/>
-
-## Projects
-
-### WDFAP (May 2024 - Present)
-
-- **Description**: A Python tool that enables you to fetch, clean, prepare, label, and upload
-  articles
-  from web sources in
-  various
-  formats such as CSV, JSON, Excel, and Parquet. It provides you with a versatile way to access, analyze, and
-  manage
-  diverse sets of data.
-
-
-- **Technologies Used**:
-
-  Python - BeautifulSoup4 - Pandas - Asyncio - Aiohttp
-
-For More Information [Click here](https://github.com/IsmaelMousa/WDFAP)
-
-### Bert Finetuned Emotion (April 2024 - May 2024)
-
-- **Description**: A fine-tuned version of the BERT model for text classification, specifically trained for emotion
-  classification tasks. It utilizes the BERT architecture, a powerful pre-trained language representation model
-  developed by Google, and fine-tunes it on the dair-ai/emotion dataset. The model aims to predict the emotion
-  associated with a given text input.
-
-
-- **Technologies Used**:
-
-  Python - HuggingFace - Transformers
-
-
-  Tokenizers - Datasets - Evaluate
-
-For More Information [Click here](https://huggingface.co/IsmaelMousa/bert-finetuned-emotion)
-
-### TTL (Dec 2023 - Mar 2024)
-
-- **Description**: A full-stack simulator for a todo task list manager, combined with a simple AI chat assistant.
-
-
-- **Technologies Used**:
-  
-  Python - FastAPI - PostgreSQL - SQLAlchemy - Poetry
-
-
-  Pytest - Pylint - Bootstrap-5 - HTML - JavaScript - CSS
-
-For More Information [Click here](https://github.com/IsmaelMousa/TTL)
-
-### Point of Sales (Oct 2022 - Jun 2023)
-
-- **Description**: A simple project that simulates a point of sale for clothes, and this project aims to focus only on
-  the front end part.
-
-
-- **Technologies Used**:
-  
-  React.js - Node.js - Bootstrap-5 - HTML - JavaScript - CSS - Figma
-
-For More Information [Click here](https://github.com/IsmaelMousa/pos-sales-stock)
-
-<hr>
-
-<br/>
-
-## Skills
-
-### Programming Languages
-
-Python - C/C++ - SQL - JavaScript - HTML - CSS
-
-### Machine Learning
-
-PyTorch - Numpy - Scipy - Pandas - Polars - HuggingFace - Transformers
-
-
-Tokenizers - Accelerate - Datasets - Matplotlib - BeautifulSoup4
-
-### Software Engineering
-
-FastAPI - Docker - PostgreSQL - MongoDB - SQLAlchemy - Poetry
-
-
-Linux - Git - GitHup Actions - Pytest - Pylint - Flake8 - Nose2 
-
-
-Postman - PgAdmin4 - Jira - Codecov - Jupyter
-
-
-Node.js - React.js - Bootstrap-5 - Tailwind
-
-<hr>
-
-<br/>
-
-## Additional Information
-
-### Languages
-
-- **Arabic**: Native
-- **English**: Upper Intermediate
-- **Italian**: Elementary
+<div align="center">
+    
+![Static Badge](https://img.shields.io/badge/8%2F9%2F2024-5PM?style=flat&logo=Github&label=Last%20Update&link=https%3A%2F%2Fgithub.com%2FIsmaelMousa%2FIsmaelMousa.github.io)
+</div>
