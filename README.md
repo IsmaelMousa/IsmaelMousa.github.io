@@ -37,6 +37,6 @@ I love movies, I hate eggplant.
 
 <div align="center">
     
-Last Upadte: 8/9/2024
+Last Update: 8/9/2024 - 6.30 PM
 
 </div>
